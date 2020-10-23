@@ -1,4 +1,7 @@
 // local reviews data
+
+// 1-3 are serious reviews. enjoy!
+
 const reviews = [
   // {
   //   id: 1,
